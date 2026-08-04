@@ -101,7 +101,7 @@ End-to-end sales & operations report built on the AdventureWorks dataset with DA
 <tr>
 <td width="50%">
 
-### 🛒 [Attrition Analytics — Power BI](https://github.com/AmrEmad1/Attrition-Analytics-PowerBi)
+### 📊 [Attrition Analytics — Power BI](https://github.com/AmrEmad1/Attrition-Analytics-PowerBi)
 Multinational grocery chain analysis across the US, Mexico & Canada — customer behavior and store performance.
 
 </td>
