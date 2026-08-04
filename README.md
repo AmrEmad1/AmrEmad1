@@ -116,18 +116,6 @@ Looker Studio dashboard tracking sales performance trends and regional breakdown
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmrEmad1&show_icons=true&theme=default" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=AmrEmad1&theme=default" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrEmad1&layout=compact&theme=default" width="49%"/>
-
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
