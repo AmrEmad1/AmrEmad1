@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0057B7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+3%2B+Years+in+Analytics;8%2B+Years+in+Operational+Leadership;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;Turning+Dashboards+Into+Business+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0057B7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+3%2B+Years+in+Analytics;7%2B+Years+in+Operational+Leadership;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;Turning+Dashboards+Into+Business+Decisions" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a **Data Analyst** with a background most analysts don't have: **3+ years leading operations teams of 50+ people** before I ever built a dashboard. That means I don't just visualize data — I understand the business decisions it needs to drive.
+I'm a **Data Analyst** with a background most analysts don't have: **7+ years leading operations teams of 50+ people** before I ever built a dashboard. That means I don't just visualize data — I understand the business decisions it needs to drive.
 
 - 🔭 Currently building **10+ Power BI dashboards** at **INTELCIA**, tracking SLA, CSAT & workforce KPIs for 700+ employees
 - 📈 At **Alhayat Medical Clinics**, I cut patient data processing time by **20%**, reduced operational costs by **15%**, and improved agent resolution times by **12%**
@@ -83,23 +83,36 @@ I'm a **Data Analyst** with a background most analysts don't have: **3+ years le
 
 ## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/AmrEmad1/HR_Analysis_PowerBi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrEmad1&repo=HR_Analysis_PowerBi&theme=default&hide_border=true&title_color=0057B7" />
-</a>
-<a href="https://github.com/AmrEmad1/AdventureWorks_Report-PowerBI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrEmad1&repo=AdventureWorks_Report-PowerBI&theme=default&hide_border=true&title_color=0057B7" />
-</a>
+### 📊 [HR Analysis — Power BI](https://github.com/AmrEmad1/HR_Analysis_PowerBi)
+HR analytics dashboard surfacing headcount, attrition, and diversity KPIs for data-driven workforce decisions.
 
-<a href="https://github.com/AmrEmad1/MavenMarket_Report_PowerBI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrEmad1&repo=MavenMarket_Report_PowerBI&theme=default&hide_border=true&title_color=0057B7" />
-</a>
-<a href="https://github.com/AmrEmad1/Sales_Performance_LookerStudio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrEmad1&repo=Sales_Performance_LookerStudio&theme=default&hide_border=true&title_color=0057B7" />
-</a>
+</td>
+<td width="50%">
 
-</div>
+### 🚲 [AdventureWorks Report — Power BI](https://github.com/AmrEmad1/AdventureWorks_Report-PowerBI)
+End-to-end sales & operations report built on the AdventureWorks dataset with DAX-driven KPI cards.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 [Maven Market Report — Power BI](https://github.com/AmrEmad1/MavenMarket_Report_PowerBI)
+Multinational grocery chain analysis across the US, Mexico & Canada — customer behavior and store performance.
+
+</td>
+<td width="50%">
+
+### 📈 [Sales Performance — Looker Studio](https://github.com/AmrEmad1/Sales_Performance_LookerStudio)
+Looker Studio dashboard tracking sales performance trends and regional breakdowns.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -107,10 +120,10 @@ I'm a **Data Analyst** with a background most analysts don't have: **3+ years le
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmrEmad1&show_icons=true&theme=default&hide_border=true&title_color=0057B7&icon_color=00C2A8&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrEmad1&theme=default&hide_border=true&background=FFFFFF&ring=0057B7&fire=00C2A8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmrEmad1&show_icons=true&theme=default" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=AmrEmad1&theme=default" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrEmad1&layout=compact&theme=default&hide_border=true&title_color=0057B7&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrEmad1&layout=compact&theme=default" width="49%"/>
 
 </div>
 
