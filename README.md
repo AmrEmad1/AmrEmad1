@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0057B7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+3%2B+Years+in+Analytics;3%2B+Years+in+Operational+Leadership;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;Turning+Dashboards+Into+Business+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0057B7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+3%2B+Years+in+Analytics;8%2B+Years+in+Operational+Leadership;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;Turning+Dashboards+Into+Business+Decisions" alt="Typing SVG" />
 
 </div>
 
