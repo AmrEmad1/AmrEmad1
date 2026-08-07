@@ -38,7 +38,7 @@ I'm a **Data Analyst** with a background most analysts don't have: **7+ years le
 | 💰 Operational costs | **↓ 15%** |
 | 🎯 Agent resolution time | **↓ 12%** |
 | 📊 Live dashboards maintained | **10+** |
-| 👥 Employees covered by KPI tracking | **300+** |
+| 👥 Employees covered by KPI tracking | **700+** |
 | 🧑‍🤝‍🧑 Team members led (pre-analytics career) | **50+** |
 
 </div>
