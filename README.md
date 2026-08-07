@@ -101,8 +101,8 @@ End-to-end sales & operations report built on the AdventureWorks dataset with DA
 <tr>
 <td width="50%">
 
-### 📊 [Attrition Analytics — Power BI](https://github.com/AmrEmad1/Attrition-Analytics-PowerBi)
-Multinational grocery chain analysis across the US, Mexico & Canada — customer behavior and store performance.
+### 🐍 [Attrition Analytics — Power BI](https://github.com/AmrEmad1/Formula-1-Case)
+A Data analysis project built with Python. Answers 7 business questions about Formula 1 racing using real data from 1950 to 2026.
 
 </td>
 <td width="50%">
